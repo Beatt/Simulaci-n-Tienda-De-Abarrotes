@@ -1,0 +1,5 @@
+1- El archivo.exe se ejecuta bajo un sistema operativo windows 64 bits.
+	
+	-Permite el uso de los datos que contienen los archivos binarios, así como afectando
+	la modificacion de ellos, si se realiza una venta, compra o algun moviendo de productos y
+	proveedores.
